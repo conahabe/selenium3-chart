@@ -11,5 +11,5 @@ keywords:
 home: https://www.seleniumhq.org/
 icon: http://docs.seleniumhq.org/images/big-logo.png
 sources:
-- https://github.com/LogiGear/selenium3-chart
+- https://github.com/conahabe/selenium3-chart
 engine: gotpl
